@@ -9,4 +9,4 @@ I'm a junior frontend developer with a passion for creating dynamic and responsi
 
 ### My stack and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,sass,bootstrap,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,sass,bootstrap,figma,git,vscode,webpack)](https://skillicons.dev)
