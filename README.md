@@ -3,7 +3,7 @@
 
 I'm a junior frontend developer with a passion for creating dynamic and responsive web experiences. From crafting pixel-perfect designs to optimizing code for maximum speed and efficiency, I love working on every aspect of the front-end development process.
 
-🔭 Currently, I'm focused on building out my skills in React, and exploring new front-end tools and frameworks. I'm always looking for new projects to collaborate on and expand my knowledge of the field.
+🔭 Currently, I'm focused on building out my skills in React by creating a simple social media, and exploring new front-end tools and frameworks. I'm always looking for new projects to collaborate on and expand my knowledge of the field.
 
 🌐 Languages : English, Ukrainian, Russian
 
